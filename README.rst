@@ -37,7 +37,32 @@ Specifications
 Expected Output
 
 >> print(Number)
+
 <class '__main__.Number'>
+
+TASK 02
+
+Creating objects in Python
+
+1.- Use the same new Jupyter notebook
+
+2.- Create a Class called Number
+
+3.- With a property named 'y' and assign the value 2
+
+4.- Create an object named result=Number()
+
+5.- print the value of y: 
+
+Expected Output
+
+>> print(Number.y)
+2
+
+
+
+
+
 
 
 
