@@ -52,7 +52,7 @@ Creating objects in Python
 
 4.- Create an object named result=Number()
 
-5.- print the value of y: 
+5.- Print the value of y: 
 
 Expected Output
 
@@ -60,6 +60,32 @@ Expected Output
 
 2
 
+TASK 03
+
+Creation of Class with attributes using the __init__() function.
+
+1.- Open a new Jupyter Notebook
+
+2.- Create a Class called Person
+
+3.- Use the __init__() function to assign values for name and lastname 'def __init__(self,name,lastname):
+"All functions defined within a class must have at least one argument, 
+which by convention is called self and is a reference to the class instance."
+
+4.- Assign values to object properties for example: p1 = CAR("Jeep", 2021)
+
+5.- Print the result.
+
+
+Expected Output
+
+>>print(p1.name)
+
+Mauro
+
+>>print(p1.lastname)
+
+Corona
 
 
 
