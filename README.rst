@@ -57,6 +57,7 @@ Creating objects in Python
 Expected Output
 
 >> print(Number.y)
+
 2
 
 
